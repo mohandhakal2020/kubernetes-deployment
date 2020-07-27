@@ -1,0 +1,2 @@
+# kubernetes-deployment
+kubernetes deployment training 27/28 2020 ~Agenda: 1 Agenda / Topics 1.1 Day 1 1.1.1 ManageIQ Service UI Administration UI 1.1.2 Container Registry Login to the Registry Pushing Images 1.1.3 SCM with GitLab User Registration Adding SSH Key Repository Visibility Git Operations 1.2 Day 2 1.2.1 Kubernetes Configuring Local Access Management Tools Kustomize - configuration management Helm - application management Attaching NFS Storage Adding Registry Credentials Demo: Migrating a Wordpress Application
